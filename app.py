@@ -1,3 +1,3 @@
-def fun(x,y):
+def addfun(x,y):
     return x+y
 
